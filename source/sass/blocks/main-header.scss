@@ -115,6 +115,7 @@
   display: block;
 
   @media (min-width: $tablet-width) {
+    top: 50%;
     left: 73px;
     transform: translate(0, -50%);
   }
